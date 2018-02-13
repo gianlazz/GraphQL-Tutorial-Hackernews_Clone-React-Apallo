@@ -1,3 +1,6 @@
+### Travic-CI Continous Integration Status:
+[![Build Status](https://travis-ci.org/gianlazz/GraphQL-Tutorial-Hackernews_Clone-React-Apallo.svg?branch=master)](https://travis-ci.org/gianlazz/GraphQL-Tutorial-Hackernews_Clone-React-Apallo)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
