@@ -1,4 +1,12 @@
-#### Travic-CI Continous Integration Status:  [![Build Status](https://travis-ci.org/gianlazz/GraphQL-Tutorial-Hackernews_Clone-React-Apallo.svg?branch=master)](https://travis-ci.org/gianlazz/GraphQL-Tutorial-Hackernews_Clone-React-Apallo)
+### Travic-CI Continous Integration Status:  
+[![Build Status](https://travis-ci.org/gianlazz/GraphQL-Tutorial-Hackernews_Clone-React-Apallo.svg?branch=master)](https://travis-ci.org/gianlazz/GraphQL-Tutorial-Hackernews_Clone-React-Apallo)
+
+ https://www.howtographql.com/react-apollo/1-getting-started/
+ 
+ https://medium.com/@bezgachev/6-simple-steps-to-automatically-test-and-deploy-your-javascript-app-to-github-pages-c4c32a34bcb1
+ 
+ ---
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
